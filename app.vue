@@ -127,7 +127,7 @@ function editTodo() {
               v-on:click="toggleDone(k)">
             </UButton>
             <UButton
-              icon="i-mdi-pencil"
+              icon="i-heroicons-pencil"
               color="transparent"
               class="dark text-primary-400 text-primary-500 dark bg-inherit bg-slate-300 p-1 focus:outline-current rounded-md hover:bg-white/10"
               size="sm"
